@@ -85,6 +85,12 @@ license, with attribution to NLnet Labs.
 
    libunbound
    reference
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Man Pages
+
+   manpage/unbound.conf.5
 
 Indices and tables
 ==================
