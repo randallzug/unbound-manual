@@ -153,6 +153,10 @@ man_pages = [
 ]
 
 
+# Execute custom script to download the latest version of Unbound
+exec(open("get_unbound_latest.py").read())
+
+
 # -- Options for Texinfo output ----------------------------------------------
 
 # Grouping the document tree into Texinfo files. List of tuples
